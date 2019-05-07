@@ -66,9 +66,10 @@ Well it turned out I was not finding the customer types as I set out to, but I d
 
 ## Two Topics: People Who Cook and People Who Don't.
 
-When I set the model to only sort into two topics, i found:
-<p><img src="./img/2018/1554758000.topic0.png"><img src="./img/2018/1554758000.topic1.png"></p>
- | 0.69 People Who Cook               | 0.31% People Who Don't Cook               |
+When I set the model to only sort into two topics, I found:
+<p><img src="./img/2018/1554758000.topic0.png"/>
+<img src="./img/2018/1554758000.topic1.png"/></p>
+| 0.69               | 0.31               |
 |:-------------------|:-------------------|
 | ONIONS YELLOW      | APPLES FUJI        |
 | GARLIC WHITE       | 1lb STRAWBERRY     |
@@ -120,5 +121,3 @@ When I set the model to only sort into two topics, i found:
 | NECTARINE          | LETTUCE RED LEAF   |
 | POTATOES JAPANESE  | CARROTS BABY       |
 | KALE GREEN         | APPLES, GRANNY SMI |
-
-
