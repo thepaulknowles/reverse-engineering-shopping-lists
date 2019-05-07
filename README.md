@@ -67,8 +67,7 @@ Well it turned out I was not finding the customer types as I set out to, but I d
 ## Two Topics: People Who Cook and People Who Don't.
 
 When I set the model to only sort into two topics, i found:
-<p><"People Who Cook"><img src="./img/2018/1554758000.topic0.png">
- <"People Who Don't Cook"><img src="./img/2018/1554758000.topic1.png"></p>
+<p><img src="./img/2018/1554758000.topic0.png"><img src="./img/2018/1554758000.topic1.png"></p>
  | 0.69 People Who Cook               | 0.31% People Who Don't Cook               |
 |:-------------------|:-------------------|
 | ONIONS YELLOW      | APPLES FUJI        |
